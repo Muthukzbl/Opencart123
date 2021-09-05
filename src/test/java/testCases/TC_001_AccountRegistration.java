@@ -7,6 +7,8 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
+//This is file modified by muthu
+
 public class TC_001_AccountRegistration extends BaseClass {
 	
 	@Test
