@@ -8,8 +8,8 @@
 	<test name="OpenCart Tests">
 	<parameter name="browser" value="chrome"/>
 		<classes>
-			<class name="testCases.TC_001_AccountRegistration"/>
-			<class name="testCases.TC_002_Login"/>
+			
+			<class name="testCases.TC_LF_009"/>
 		</classes>
 	
 	</test>

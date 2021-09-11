@@ -62,12 +62,12 @@ public class BaseClass {
 		}
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	}
-	
+	/*
 	@AfterClass
 	public void tearDown()
 	{
 	driver.quit();
-	}
+	} */
 	
 	
 	public String randomestring() {
